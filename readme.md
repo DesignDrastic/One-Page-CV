@@ -1,4 +1,4 @@
-# One-Page-CV
+# One Page CV/Resume Website Template
 ----------------------------------
 
 <a href="https://designdrastic.com/template/html5-responsive-cv-resume"><strong>View Post</strong></a><br />
