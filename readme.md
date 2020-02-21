@@ -1,5 +1,12 @@
 # One-Page-CV
 ----------------------------------
+
+<a href="https://designdrastic.com/template/html5-responsive-cv-resume"><strong>View Post</strong></a><br />
+<a href="https://designdrastic.github.io/One-Page-CV/"><strong>View Demo</strong></a><br />
+
+![Demo](/one-page-cv.png)
+
+
 # Terms of Use
 
   - The offered resources can be used on any personal projects as-is format.
